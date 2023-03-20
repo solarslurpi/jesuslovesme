@@ -1,0 +1,12 @@
+# {title = "what Jesus thought about hate"}
+<br>
+{subtext = Jesus consistently spoke against hate throughout his ministry, emphasizing the importance of love and forgiveness. In the Sermon on the Mount, he challenged his listeners to love their enemies and pray for those who persecute them. He also taught that anger and hatred can be as destructive as murder.}
+	## {write out bible verse = (Matthew 5:44)}
+	## {write out bible verse = (Matthew 5:21-22)}
+{subtext = Jesus demonstrated the power of love and forgiveness in his actions as well. He reached out to marginalized individuals, including tax collectors, prostitutes, and lepers, showing them compassion and acceptance. He forgave those who betrayed him, such as Peter, who denied knowing him three times.}
+	## {write out bible verse = }
+<BR>	
+{subtext =  In his final moments on the cross, Jesus prayed for those who were crucifying him, saying, "Father, forgive them, for they do not know what they are doing" This exemplified the ultimate act of love and forgiveness, even in the face of unimaginable cruelty.
+	## {write out bible verse = (Luke 23:34)}
+ 
+As followers of Jesus, we are called to follow his example by loving and forgiving those who wrong us. We are also called to resist hate and division in all forms, working to build bridges between individuals and communities and standing up against injustice and oppression.
